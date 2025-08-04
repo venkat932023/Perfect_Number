@@ -1,0 +1,1 @@
+# In this repository I added different Perfect Numbers code using Python Programming Language.
